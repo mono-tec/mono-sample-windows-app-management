@@ -1,4 +1,4 @@
-# Windows App Management
+# mono-sample-windows-app-management
 
 Windowsアプリの運用を安定させるための
 **開発標準とサンプル実装（＋インストーラテンプレート）**をまとめたリポジトリです。
